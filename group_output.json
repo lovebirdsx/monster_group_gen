@@ -61,7 +61,7 @@
 		"8": "Monster5",
 		"9": "Monster6"
 	},
-	"row_count": 361,
+	"row_count": 364,
 	"rows": 
 	{
 		"1": 
@@ -4156,6 +4156,54 @@
 			"Monster5": "铁骑",
 			"Monster6": "铁骑",
 			"Monster7": "铁骑",
+			"VersionID": 1
+		},
+		"362": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-普通-盾英",
+			"Monster1": "黄巾盾甲英雄",
+			"Monster2": "黄巾盾甲",
+			"Monster3": "黄巾盾甲",
+			"Monster4": "黄巾盾甲",
+			"Monster5": "黄巾盾甲",
+			"Monster6": "黄巾盾甲",
+			"Monster7": "黄巾盾甲",
+			"Monster8": "黄巾盾甲",
+			"VersionID": 1
+		},
+		"363": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-困难-[B]盾英",
+			"Monster1": "[B]黄巾盾甲英雄",
+			"Monster10": "黄巾盾甲",
+			"Monster11": "黄巾盾甲",
+			"Monster2": "黄巾盾甲",
+			"Monster3": "黄巾盾甲",
+			"Monster4": "黄巾盾甲",
+			"Monster5": "黄巾盾甲",
+			"Monster6": "黄巾盾甲",
+			"Monster7": "黄巾盾甲",
+			"Monster8": "黄巾盾甲",
+			"Monster9": "黄巾盾甲",
+			"VersionID": 1
+		},
+		"364": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-困难-[B]强英",
+			"Monster1": "[B]黄巾强弓英雄",
+			"Monster10": "黄巾强弓",
+			"Monster11": "黄巾强弓",
+			"Monster2": "黄巾强弓",
+			"Monster3": "黄巾强弓",
+			"Monster4": "黄巾强弓",
+			"Monster5": "黄巾强弓",
+			"Monster6": "黄巾强弓",
+			"Monster7": "黄巾强弓",
+			"Monster8": "黄巾强弓",
+			"Monster9": "黄巾强弓",
 			"VersionID": 1
 		},
 		"37": 
