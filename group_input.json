@@ -1,6 +1,6 @@
 {
-  "row_count": 364,
-  "col_count": 16,
+  "row_count": 371,
+  "col_count": 42,
   "keys": {
     "1": "Camp",
     "2": "Difficulty",
@@ -15,26 +15,105 @@
     "11": "Soldier2",
     "12": "Soldier3",
     "13": "Check",
-    "14": "GroupName",
-    "15": "Formation",
-    "16": "VersionID"
+    "14": "Suffix",
+    "15": "GroupName",
+    "16": "Formation",
+    "17": "VersionID",
+    "18": "IgnoreGen",
+    "19": "Monster1",
+    "20": "Monster2",
+    "21": "Monster3",
+    "22": "Monster4",
+    "23": "Monster5",
+    "24": "Monster6",
+    "25": "Monster7",
+    "26": "Monster8",
+    "27": "Monster9",
+    "28": "Monster10",
+    "29": "Monster11",
+    "30": "Monster12",
+    "31": "Monster13",
+    "32": "Monster14",
+    "33": "Monster15",
+    "34": "Monster16",
+    "35": "Monster17",
+    "36": "Monster18",
+    "37": "Monster19",
+    "38": "Monster20",
+    "39": "Monster21",
+    "40": "Monster22",
+    "41": "Monster23",
+    "42": "Monster24"
   },
   "rows": {
     "1": {
       "Camp": "黄巾",
       "Difficulty": "简单",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "教徒",
       "Check": true,
-      "GroupName": "黄巾-简单-教徒",
+      "Suffix": 1,
+      "GroupName": "黄巾-简单-教徒1",
       "Formation": "random",
-      "VersionID": 2
+      "VersionID": 0,
+      "IgnoreGen": true,
+      "Monster1": "黄巾教徒",
+      "Monster2": "黄巾教徒",
+      "Monster3": "黄巾教徒",
+      "Monster4": "黄巾教徒"
     },
     "2": {
       "Camp": "黄巾",
       "Difficulty": "简单",
-      "IsBoss": false,
+      "SoldierCount": 1,
+      "Soldier1": "教徒",
+      "Check": true,
+      "Suffix": 2,
+      "GroupName": "黄巾-简单-教徒2",
+      "Formation": "random",
+      "VersionID": 0,
+      "IgnoreGen": true,
+      "Monster1": "黄巾教徒",
+      "Monster2": "黄巾教徒",
+      "Monster3": "黄巾教徒",
+      "Monster4": "黄巾教徒",
+      "Monster5": "黄巾教徒",
+      "Monster6": "黄巾教徒"
+    },
+    "3": {
+      "Camp": "黄巾",
+      "Difficulty": "简单",
+      "SoldierCount": 1,
+      "Soldier1": "教徒",
+      "Check": true,
+      "Suffix": 3,
+      "GroupName": "黄巾-简单-教徒3",
+      "Formation": "random",
+      "VersionID": 0,
+      "IgnoreGen": true,
+      "Monster1": "黄巾教徒",
+      "Monster2": "黄巾教徒",
+      "Monster3": "黄巾教徒",
+      "Monster4": "黄巾教徒",
+      "Monster5": "黄巾教徒",
+      "Monster6": "黄巾教徒",
+      "Monster7": "黄巾教徒",
+      "Monster8": "黄巾教徒"
+    },
+    "4": {
+      "Camp": "黄巾",
+      "Difficulty": "简单",
+      "SoldierCount": 1,
+      "Soldier1": "教徒",
+      "Check": true,
+      "Suffix": 4,
+      "GroupName": "黄巾-简单-教徒4",
+      "Formation": "random",
+      "VersionID": 2
+    },
+    "5": {
+      "Camp": "黄巾",
+      "Difficulty": "简单",
       "SoldierCount": 1,
       "Soldier1": "铁兵",
       "Check": true,
@@ -42,10 +121,29 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "3": {
+    "6": {
+      "Camp": "黄巾",
+      "Difficulty": "简单",
+      "SoldierCount": 1,
+      "Soldier1": "炼兵",
+      "Check": true,
+      "GroupName": "黄巾-简单-炼兵",
+      "Formation": "row6",
+      "VersionID": 1
+    },
+    "7": {
+      "Camp": "黄巾",
+      "Difficulty": "简单",
+      "SoldierCount": 1,
+      "Soldier1": "刺兵",
+      "Check": true,
+      "GroupName": "黄巾-简单-刺兵",
+      "Formation": "row6",
+      "VersionID": 1
+    },
+    "8": {
       "Camp": "黄巾",
       "Difficulty": "普通",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "法兵",
       "Check": true,
@@ -53,10 +151,9 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "4": {
+    "9": {
       "Camp": "黄巾",
       "Difficulty": "普通",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "教徒",
       "Check": true,
@@ -64,10 +161,9 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "5": {
+    "10": {
       "Camp": "黄巾",
       "Difficulty": "普通",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "强兵",
       "Check": true,
@@ -75,10 +171,29 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "6": {
+    "11": {
       "Camp": "黄巾",
       "Difficulty": "普通",
-      "IsBoss": false,
+      "SoldierCount": 1,
+      "Soldier1": "炼兵",
+      "Check": true,
+      "GroupName": "黄巾-普通-炼兵",
+      "Formation": "row4",
+      "VersionID": 1
+    },
+    "12": {
+      "Camp": "黄巾",
+      "Difficulty": "普通",
+      "SoldierCount": 1,
+      "Soldier1": "刺兵",
+      "Check": true,
+      "GroupName": "黄巾-普通-刺兵",
+      "Formation": "row4",
+      "VersionID": 1
+    },
+    "13": {
+      "Camp": "黄巾",
+      "Difficulty": "普通",
       "HeroCount": 1,
       "Hero1": "法英",
       "Check": true,
@@ -86,10 +201,9 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "7": {
+    "14": {
       "Camp": "黄巾",
       "Difficulty": "普通",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "盾英",
       "Check": true,
@@ -97,10 +211,9 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "8": {
+    "15": {
       "Camp": "黄巾",
       "Difficulty": "普通",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "法兵",
@@ -109,10 +222,9 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "9": {
+    "16": {
       "Camp": "黄巾",
       "Difficulty": "普通",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "强兵",
@@ -121,10 +233,9 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "10": {
+    "17": {
       "Camp": "黄巾",
       "Difficulty": "普通",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "铁英",
       "Check": true,
@@ -132,10 +243,9 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "11": {
+    "18": {
       "Camp": "黄巾",
       "Difficulty": "困难",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "法英",
       "Check": true,
@@ -143,7 +253,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "12": {
+    "19": {
       "Camp": "黄巾",
       "Difficulty": "困难",
       "IsBoss": true,
@@ -156,7 +266,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "13": {
+    "20": {
       "Camp": "黄巾",
       "Difficulty": "困难",
       "IsBoss": true,
@@ -167,7 +277,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "14": {
+    "21": {
       "Camp": "黄巾",
       "Difficulty": "困难",
       "IsBoss": true,
@@ -179,7 +289,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "15": {
+    "22": {
       "Camp": "黄巾",
       "Difficulty": "困难",
       "IsBoss": true,
@@ -190,7 +300,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "16": {
+    "23": {
       "Camp": "黄巾",
       "Difficulty": "困难",
       "IsBoss": true,
@@ -201,7 +311,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "17": {
+    "24": {
       "Camp": "黄巾",
       "Difficulty": "困难",
       "IsBoss": true,
@@ -212,10 +322,9 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "18": {
+    "25": {
       "Camp": "黄巾",
       "Difficulty": "困难",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "法兵",
@@ -224,10 +333,9 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "19": {
+    "26": {
       "Camp": "黄巾",
       "Difficulty": "困难",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "铁英",
       "Check": true,
@@ -235,11 +343,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "20": {
+    "27": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "铁兵",
       "Check": true,
@@ -247,11 +354,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "21": {
+    "28": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "盾兵",
       "Check": true,
@@ -259,11 +365,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "22": {
+    "29": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "强兵",
       "Check": true,
@@ -271,11 +376,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "23": {
+    "30": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "炼兵",
       "Check": true,
@@ -283,11 +387,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "24": {
+    "31": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "法兵",
       "Check": true,
@@ -295,11 +398,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "25": {
+    "32": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "刺兵",
       "Check": true,
@@ -307,11 +409,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "26": {
+    "33": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "教徒",
       "Check": true,
@@ -319,11 +420,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "27": {
+    "34": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "炼兵",
@@ -332,11 +432,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "28": {
+    "35": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "强兵",
@@ -345,11 +444,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "29": {
+    "36": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "法兵",
@@ -358,11 +456,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "30": {
+    "37": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "炼兵",
@@ -371,11 +468,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "31": {
+    "38": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "强兵",
@@ -384,11 +480,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "32": {
+    "39": {
       "Camp": "三国",
       "Difficulty": "简单",
       "Type": "简单2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "法兵",
@@ -397,11 +492,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "33": {
+    "40": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "铁兵",
       "Check": true,
@@ -409,11 +503,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "34": {
+    "41": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "盾兵",
       "Check": true,
@@ -421,11 +514,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "35": {
+    "42": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "强兵",
       "Check": true,
@@ -433,11 +525,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "36": {
+    "43": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "炼兵",
       "Check": true,
@@ -445,11 +536,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "37": {
+    "44": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "法兵",
       "Check": true,
@@ -457,11 +547,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "38": {
+    "45": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "刺兵",
       "Check": true,
@@ -469,11 +558,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "39": {
+    "46": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "教徒",
       "Check": true,
@@ -481,11 +569,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "40": {
+    "47": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "炼兵",
@@ -494,11 +581,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "41": {
+    "48": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "强兵",
@@ -507,11 +593,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "42": {
+    "49": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "法兵",
@@ -520,11 +605,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "43": {
+    "50": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "刺兵",
@@ -533,11 +617,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "44": {
+    "51": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "炼兵",
@@ -546,11 +629,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "45": {
+    "52": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "强兵",
@@ -559,11 +641,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "46": {
+    "53": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "法兵",
@@ -572,11 +653,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "47": {
+    "54": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "刺兵",
@@ -585,11 +665,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "48": {
+    "55": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "铁英",
       "Check": true,
@@ -597,11 +676,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "49": {
+    "56": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "盾英",
       "Check": true,
@@ -609,11 +687,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "50": {
+    "57": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "强英",
       "Check": true,
@@ -621,11 +698,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "51": {
+    "58": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "炼英",
       "Check": true,
@@ -633,11 +709,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "52": {
+    "59": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "法英",
       "Check": true,
@@ -645,11 +720,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "53": {
+    "60": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英",
-      "IsBoss": false,
       "HeroCount": 1,
       "Hero1": "刺英",
       "Check": true,
@@ -657,7 +731,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "54": {
+    "61": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英[B]",
@@ -669,7 +743,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "55": {
+    "62": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英[B]",
@@ -681,7 +755,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "56": {
+    "63": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英[B]",
@@ -693,7 +767,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "57": {
+    "64": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英[B]",
@@ -705,7 +779,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "58": {
+    "65": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英[B]",
@@ -717,7 +791,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "59": {
+    "66": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英[B]",
@@ -729,11 +803,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "60": {
+    "67": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "铁英",
@@ -743,11 +816,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "61": {
+    "68": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "铁英",
@@ -757,11 +829,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "62": {
+    "69": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "铁英",
@@ -771,11 +842,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "63": {
+    "70": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "铁英",
@@ -785,11 +855,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "64": {
+    "71": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "盾英",
@@ -799,11 +868,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "65": {
+    "72": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "盾英",
@@ -813,11 +881,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "66": {
+    "73": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "盾英",
@@ -827,11 +894,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "67": {
+    "74": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "盾英",
@@ -841,7 +907,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "68": {
+    "75": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近[B]1兵远",
@@ -855,7 +921,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "69": {
+    "76": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近[B]1兵远",
@@ -869,7 +935,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "70": {
+    "77": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近[B]1兵远",
@@ -883,7 +949,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "71": {
+    "78": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近[B]1兵远",
@@ -897,7 +963,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "72": {
+    "79": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近[B]1兵远",
@@ -911,7 +977,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "73": {
+    "80": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近[B]1兵远",
@@ -925,7 +991,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "74": {
+    "81": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近[B]1兵远",
@@ -939,7 +1005,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "75": {
+    "82": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英近[B]1兵远",
@@ -953,11 +1019,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "76": {
+    "83": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "强英",
@@ -967,11 +1032,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "77": {
+    "84": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "强英",
@@ -981,11 +1045,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "78": {
+    "85": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "强英",
@@ -995,11 +1058,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "79": {
+    "86": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "法英",
@@ -1009,11 +1071,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "80": {
+    "87": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "法英",
@@ -1023,11 +1084,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "81": {
+    "88": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "法英",
@@ -1037,11 +1097,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "82": {
+    "89": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "炼英",
@@ -1051,11 +1110,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "83": {
+    "90": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "炼英",
@@ -1065,11 +1123,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "84": {
+    "91": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "炼英",
@@ -1079,11 +1136,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "85": {
+    "92": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "刺英",
@@ -1093,11 +1149,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "86": {
+    "93": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "刺英",
@@ -1107,11 +1162,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "87": {
+    "94": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "刺英",
@@ -1121,7 +1175,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "88": {
+    "95": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1135,7 +1189,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "89": {
+    "96": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1149,7 +1203,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "90": {
+    "97": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1163,7 +1217,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "91": {
+    "98": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1177,7 +1231,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "92": {
+    "99": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1191,7 +1245,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "93": {
+    "100": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1205,7 +1259,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "94": {
+    "101": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1219,7 +1273,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "95": {
+    "102": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1233,7 +1287,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "96": {
+    "103": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1247,7 +1301,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "97": {
+    "104": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1261,7 +1315,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "98": {
+    "105": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1275,7 +1329,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "99": {
+    "106": {
       "Camp": "三国",
       "Difficulty": "普通",
       "Type": "普通1英远[B]1兵近",
@@ -1289,11 +1343,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "100": {
+    "107": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1兵",
-      "IsBoss": false,
       "SoldierCount": 1,
       "Soldier1": "刺兵",
       "Check": true,
@@ -1301,11 +1354,10 @@
       "Formation": "row6",
       "VersionID": 2
     },
-    "101": {
+    "108": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "炼兵",
@@ -1314,11 +1366,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "102": {
+    "109": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "强兵",
@@ -1327,11 +1378,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "103": {
+    "110": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "法兵",
@@ -1340,11 +1390,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "104": {
+    "111": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "铁兵",
       "Soldier2": "刺兵",
@@ -1353,11 +1402,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "105": {
+    "112": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "炼兵",
@@ -1366,11 +1414,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "106": {
+    "113": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "强兵",
@@ -1379,11 +1426,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "107": {
+    "114": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "法兵",
@@ -1392,11 +1438,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "108": {
+    "115": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2兵",
-      "IsBoss": false,
       "SoldierCount": 2,
       "Soldier1": "盾兵",
       "Soldier2": "刺兵",
@@ -1405,11 +1450,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "109": {
+    "116": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "盾兵",
@@ -1419,11 +1463,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "110": {
+    "117": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "盾兵",
@@ -1433,11 +1476,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "111": {
+    "118": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "盾兵",
@@ -1447,11 +1489,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "112": {
+    "119": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "盾兵",
@@ -1461,11 +1502,10 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "113": {
+    "120": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "盾兵",
       "Soldier2": "强兵",
@@ -1475,11 +1515,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "114": {
+    "121": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "盾兵",
       "Soldier2": "强兵",
@@ -1489,11 +1528,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "115": {
+    "122": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "盾兵",
       "Soldier2": "炼兵",
@@ -1503,11 +1541,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "116": {
+    "123": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "盾兵",
       "Soldier2": "强兵",
@@ -1517,11 +1554,10 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "117": {
+    "124": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "盾兵",
       "Soldier2": "炼兵",
@@ -1531,11 +1567,10 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "118": {
+    "125": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "盾兵",
       "Soldier2": "法兵",
@@ -1545,11 +1580,10 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "119": {
+    "126": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "强兵",
@@ -1559,11 +1593,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "120": {
+    "127": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "强兵",
@@ -1573,11 +1606,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "121": {
+    "128": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "炼兵",
@@ -1587,11 +1619,10 @@
       "Formation": "row8",
       "VersionID": 2
     },
-    "122": {
+    "129": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "强兵",
@@ -1601,11 +1632,10 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "123": {
+    "130": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "炼兵",
@@ -1615,11 +1645,10 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "124": {
+    "131": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难3兵",
-      "IsBoss": false,
       "SoldierCount": 3,
       "Soldier1": "铁兵",
       "Soldier2": "法兵",
@@ -1629,11 +1658,10 @@
       "Formation": "row8",
       "VersionID": 1
     },
-    "125": {
+    "132": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "铁英",
@@ -1643,11 +1671,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "126": {
+    "133": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "铁英",
@@ -1657,11 +1684,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "127": {
+    "134": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "铁英",
@@ -1671,11 +1697,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "128": {
+    "135": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "铁英",
@@ -1685,11 +1710,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "129": {
+    "136": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "盾英",
@@ -1699,11 +1723,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "130": {
+    "137": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "盾英",
@@ -1713,11 +1736,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "131": {
+    "138": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "盾英",
@@ -1727,11 +1749,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "132": {
+    "139": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近1兵远",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "盾英",
@@ -1741,7 +1762,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "133": {
+    "140": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近[B]1兵远",
@@ -1755,7 +1776,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "134": {
+    "141": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近[B]1兵远",
@@ -1769,7 +1790,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "135": {
+    "142": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近[B]1兵远",
@@ -1783,7 +1804,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "136": {
+    "143": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近[B]1兵远",
@@ -1797,7 +1818,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "137": {
+    "144": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近[B]1兵远",
@@ -1811,7 +1832,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "138": {
+    "145": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近[B]1兵远",
@@ -1825,7 +1846,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "139": {
+    "146": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近[B]1兵远",
@@ -1839,7 +1860,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "140": {
+    "147": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英近[B]1兵远",
@@ -1853,11 +1874,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "141": {
+    "148": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "强英",
@@ -1867,11 +1887,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "142": {
+    "149": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "强英",
@@ -1881,11 +1900,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "143": {
+    "150": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "强英",
@@ -1895,11 +1913,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "144": {
+    "151": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "法英",
@@ -1909,11 +1926,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "145": {
+    "152": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "法英",
@@ -1923,11 +1939,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "146": {
+    "153": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "法英",
@@ -1937,11 +1952,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "147": {
+    "154": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "炼英",
@@ -1951,11 +1965,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "148": {
+    "155": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "炼英",
@@ -1965,11 +1978,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "149": {
+    "156": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "炼英",
@@ -1979,11 +1991,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "150": {
+    "157": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "刺英",
@@ -1993,11 +2004,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "151": {
+    "158": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "刺英",
@@ -2007,11 +2017,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "152": {
+    "159": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远1兵近",
-      "IsBoss": false,
       "HeroCount": 1,
       "SoldierCount": 1,
       "Hero1": "刺英",
@@ -2021,7 +2030,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "153": {
+    "160": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2035,7 +2044,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "154": {
+    "161": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2049,7 +2058,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "155": {
+    "162": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2063,7 +2072,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "156": {
+    "163": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2077,7 +2086,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "157": {
+    "164": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2091,7 +2100,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "158": {
+    "165": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2105,7 +2114,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "159": {
+    "166": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2119,7 +2128,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "160": {
+    "167": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2133,7 +2142,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "161": {
+    "168": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2147,7 +2156,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "162": {
+    "169": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2161,7 +2170,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "163": {
+    "170": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2175,7 +2184,7 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "164": {
+    "171": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难1英远[B]1兵近",
@@ -2189,11 +2198,10 @@
       "Formation": "heros",
       "VersionID": 1
     },
-    "165": {
+    "172": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -2202,11 +2210,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "166": {
+    "173": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -2215,11 +2222,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "167": {
+    "174": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "强英",
@@ -2228,11 +2234,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "168": {
+    "175": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "炼英",
@@ -2241,11 +2246,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "169": {
+    "176": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "法英",
@@ -2254,11 +2258,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "170": {
+    "177": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "刺英",
@@ -2267,11 +2270,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "171": {
+    "178": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -2280,11 +2282,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "172": {
+    "179": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "强英",
@@ -2293,11 +2294,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "173": {
+    "180": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "炼英",
@@ -2306,11 +2306,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "174": {
+    "181": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "法英",
@@ -2319,11 +2318,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "175": {
+    "182": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "刺英",
@@ -2332,11 +2330,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "176": {
+    "183": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "强英",
       "Hero2": "强英",
@@ -2345,11 +2342,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "177": {
+    "184": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "强英",
       "Hero2": "炼英",
@@ -2358,11 +2354,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "178": {
+    "185": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "强英",
       "Hero2": "法英",
@@ -2371,11 +2366,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "179": {
+    "186": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "强英",
       "Hero2": "刺英",
@@ -2384,11 +2378,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "180": {
+    "187": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "炼英",
       "Hero2": "炼英",
@@ -2397,11 +2390,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "181": {
+    "188": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "炼英",
       "Hero2": "法英",
@@ -2410,11 +2402,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "182": {
+    "189": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "炼英",
       "Hero2": "刺英",
@@ -2423,11 +2414,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "183": {
+    "190": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "法英",
       "Hero2": "法英",
@@ -2436,11 +2426,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "184": {
+    "191": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "法英",
       "Hero2": "刺英",
@@ -2449,11 +2438,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "185": {
+    "192": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "刺英",
       "Hero2": "刺英",
@@ -2462,7 +2450,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "186": {
+    "193": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2475,7 +2463,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "187": {
+    "194": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2488,7 +2476,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "188": {
+    "195": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2501,7 +2489,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "189": {
+    "196": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2514,7 +2502,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "190": {
+    "197": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2527,7 +2515,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "191": {
+    "198": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2540,7 +2528,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "192": {
+    "199": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2553,7 +2541,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "193": {
+    "200": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2566,7 +2554,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "194": {
+    "201": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2579,7 +2567,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "195": {
+    "202": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2592,7 +2580,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "196": {
+    "203": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2605,7 +2593,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "197": {
+    "204": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2618,7 +2606,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "198": {
+    "205": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2631,7 +2619,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "199": {
+    "206": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2644,7 +2632,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "200": {
+    "207": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2657,7 +2645,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "201": {
+    "208": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2670,7 +2658,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "202": {
+    "209": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2683,7 +2671,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "203": {
+    "210": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2696,7 +2684,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "204": {
+    "211": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2709,7 +2697,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "205": {
+    "212": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2722,7 +2710,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "206": {
+    "213": {
       "Camp": "三国",
       "Difficulty": "困难",
       "Type": "困难2英[B]",
@@ -2735,11 +2723,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "207": {
+    "214": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -2748,11 +2735,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "208": {
+    "215": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -2761,11 +2747,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "209": {
+    "216": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "强英",
@@ -2774,11 +2759,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "210": {
+    "217": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "炼英",
@@ -2787,11 +2771,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "211": {
+    "218": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "法英",
@@ -2800,11 +2783,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "212": {
+    "219": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "铁英",
       "Hero2": "刺英",
@@ -2813,11 +2795,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "213": {
+    "220": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -2826,11 +2807,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "214": {
+    "221": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "强英",
@@ -2839,11 +2819,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "215": {
+    "222": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "炼英",
@@ -2852,11 +2831,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "216": {
+    "223": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "法英",
@@ -2865,11 +2843,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "217": {
+    "224": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "盾英",
       "Hero2": "刺英",
@@ -2878,11 +2855,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "218": {
+    "225": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "强英",
       "Hero2": "强英",
@@ -2891,11 +2867,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "219": {
+    "226": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "强英",
       "Hero2": "炼英",
@@ -2904,11 +2879,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "220": {
+    "227": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "强英",
       "Hero2": "法英",
@@ -2917,11 +2891,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "221": {
+    "228": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "强英",
       "Hero2": "刺英",
@@ -2930,11 +2903,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "222": {
+    "229": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "炼英",
       "Hero2": "炼英",
@@ -2943,11 +2915,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "223": {
+    "230": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "炼英",
       "Hero2": "法英",
@@ -2956,11 +2927,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "224": {
+    "231": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "炼英",
       "Hero2": "刺英",
@@ -2969,11 +2939,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "225": {
+    "232": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "法英",
       "Hero2": "法英",
@@ -2982,11 +2951,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "226": {
+    "233": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "法英",
       "Hero2": "刺英",
@@ -2995,11 +2963,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "227": {
+    "234": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英",
-      "IsBoss": false,
       "HeroCount": 2,
       "Hero1": "刺英",
       "Hero2": "刺英",
@@ -3008,7 +2975,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "228": {
+    "235": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3021,7 +2988,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "229": {
+    "236": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3034,7 +3001,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "230": {
+    "237": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3047,7 +3014,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "231": {
+    "238": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3060,7 +3027,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "232": {
+    "239": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3073,7 +3040,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "233": {
+    "240": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3086,7 +3053,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "234": {
+    "241": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3099,7 +3066,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "235": {
+    "242": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3112,7 +3079,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "236": {
+    "243": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3125,7 +3092,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "237": {
+    "244": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3138,7 +3105,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "238": {
+    "245": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3151,7 +3118,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "239": {
+    "246": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3164,7 +3131,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "240": {
+    "247": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3177,7 +3144,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "241": {
+    "248": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3190,7 +3157,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "242": {
+    "249": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3203,7 +3170,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "243": {
+    "250": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3216,7 +3183,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "244": {
+    "251": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3229,7 +3196,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "245": {
+    "252": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3242,7 +3209,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "246": {
+    "253": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3255,7 +3222,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "247": {
+    "254": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3268,7 +3235,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "248": {
+    "255": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难2英[B]",
@@ -3281,11 +3248,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "249": {
+    "256": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -3295,11 +3261,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "250": {
+    "257": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -3309,11 +3274,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "251": {
+    "258": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -3323,11 +3287,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "252": {
+    "259": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -3337,11 +3300,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "253": {
+    "260": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -3351,11 +3313,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "254": {
+    "261": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -3365,11 +3326,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "255": {
+    "262": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -3379,11 +3339,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "256": {
+    "263": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -3393,11 +3352,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "257": {
+    "264": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -3407,11 +3365,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "258": {
+    "265": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -3421,11 +3378,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "259": {
+    "266": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -3435,11 +3391,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "260": {
+    "267": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -3449,7 +3404,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "261": {
+    "268": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3463,7 +3418,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "262": {
+    "269": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3477,7 +3432,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "263": {
+    "270": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3491,7 +3446,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "264": {
+    "271": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3505,7 +3460,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "265": {
+    "272": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3519,7 +3474,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "266": {
+    "273": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3533,7 +3488,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "267": {
+    "274": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3547,7 +3502,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "268": {
+    "275": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3561,7 +3516,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "269": {
+    "276": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3575,7 +3530,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "270": {
+    "277": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3589,7 +3544,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "271": {
+    "278": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3603,7 +3558,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "272": {
+    "279": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近近远",
@@ -3617,11 +3572,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "273": {
+    "280": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "强英",
@@ -3631,11 +3585,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "274": {
+    "281": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "炼英",
@@ -3645,11 +3598,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "275": {
+    "282": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "法英",
@@ -3659,11 +3611,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "276": {
+    "283": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "刺英",
@@ -3673,11 +3624,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "277": {
+    "284": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "强英",
@@ -3687,11 +3637,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "278": {
+    "285": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "强英",
@@ -3701,11 +3650,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "279": {
+    "286": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "炼英",
@@ -3715,11 +3663,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "280": {
+    "287": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "炼英",
@@ -3729,11 +3676,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "281": {
+    "288": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "法英",
@@ -3743,11 +3689,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "282": {
+    "289": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "炼英",
@@ -3757,11 +3702,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "283": {
+    "290": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "法英",
@@ -3771,11 +3715,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "284": {
+    "291": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "刺英",
@@ -3785,11 +3728,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "285": {
+    "292": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "强英",
@@ -3799,11 +3741,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "286": {
+    "293": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "强英",
@@ -3813,11 +3754,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "287": {
+    "294": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "炼英",
@@ -3827,11 +3767,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "288": {
+    "295": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "炼英",
@@ -3841,11 +3780,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "289": {
+    "296": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "法英",
@@ -3855,7 +3793,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "290": {
+    "297": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3869,7 +3807,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "291": {
+    "298": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3883,7 +3821,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "292": {
+    "299": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3897,7 +3835,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "293": {
+    "300": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3911,7 +3849,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "294": {
+    "301": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3925,7 +3863,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "295": {
+    "302": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3939,7 +3877,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "296": {
+    "303": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3953,7 +3891,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "297": {
+    "304": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3967,7 +3905,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "298": {
+    "305": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3981,7 +3919,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "299": {
+    "306": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -3995,7 +3933,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "300": {
+    "307": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -4009,7 +3947,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "301": {
+    "308": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -4023,7 +3961,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "302": {
+    "309": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -4037,7 +3975,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "303": {
+    "310": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -4051,7 +3989,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "304": {
+    "311": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -4065,7 +4003,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "305": {
+    "312": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -4079,7 +4017,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "306": {
+    "313": {
       "Camp": "三国",
       "Difficulty": "超难",
       "Type": "超难3英[B]-近远远",
@@ -4093,11 +4031,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "307": {
+    "314": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -4107,11 +4044,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "308": {
+    "315": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -4121,11 +4057,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "309": {
+    "316": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -4135,11 +4070,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "310": {
+    "317": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "铁英",
@@ -4149,11 +4083,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "311": {
+    "318": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -4163,11 +4096,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "312": {
+    "319": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -4177,11 +4109,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "313": {
+    "320": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -4191,11 +4122,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "314": {
+    "321": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "盾英",
@@ -4205,11 +4135,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "315": {
+    "322": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -4219,11 +4148,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "316": {
+    "323": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -4233,11 +4161,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "317": {
+    "324": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -4247,11 +4174,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "318": {
+    "325": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近近远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "盾英",
@@ -4261,7 +4187,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "319": {
+    "326": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4275,7 +4201,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "320": {
+    "327": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4289,7 +4215,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "321": {
+    "328": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4303,7 +4229,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "322": {
+    "329": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4317,7 +4243,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "323": {
+    "330": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4331,7 +4257,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "324": {
+    "331": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4345,7 +4271,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "325": {
+    "332": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4359,7 +4285,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "326": {
+    "333": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4373,7 +4299,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "327": {
+    "334": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4387,7 +4313,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "328": {
+    "335": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4401,7 +4327,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "329": {
+    "336": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4415,7 +4341,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "330": {
+    "337": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近近远",
@@ -4429,11 +4355,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "331": {
+    "338": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "强英",
@@ -4443,11 +4368,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "332": {
+    "339": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "炼英",
@@ -4457,11 +4381,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "333": {
+    "340": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "法英",
@@ -4471,11 +4394,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "334": {
+    "341": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "刺英",
@@ -4485,11 +4407,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "335": {
+    "342": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "强英",
@@ -4499,11 +4420,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "336": {
+    "343": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "强英",
@@ -4513,11 +4433,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "337": {
+    "344": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "炼英",
@@ -4527,11 +4446,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "338": {
+    "345": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "炼英",
@@ -4541,11 +4459,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "339": {
+    "346": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "铁英",
       "Hero2": "法英",
@@ -4555,11 +4472,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "340": {
+    "347": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "炼英",
@@ -4569,11 +4485,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "341": {
+    "348": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "法英",
@@ -4583,11 +4498,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "342": {
+    "349": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "刺英",
@@ -4597,11 +4511,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "343": {
+    "350": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "强英",
@@ -4611,11 +4524,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "344": {
+    "351": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "强英",
@@ -4625,11 +4537,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "345": {
+    "352": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "炼英",
@@ -4639,11 +4550,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "346": {
+    "353": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "炼英",
@@ -4653,11 +4563,10 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "347": {
+    "354": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英-近远远",
-      "IsBoss": false,
       "HeroCount": 3,
       "Hero1": "盾英",
       "Hero2": "法英",
@@ -4667,7 +4576,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "348": {
+    "355": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4681,7 +4590,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "349": {
+    "356": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4695,7 +4604,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "350": {
+    "357": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4709,7 +4618,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "351": {
+    "358": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4723,7 +4632,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "352": {
+    "359": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4737,7 +4646,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "353": {
+    "360": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4751,7 +4660,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "354": {
+    "361": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4765,7 +4674,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "355": {
+    "362": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4779,7 +4688,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "356": {
+    "363": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4793,7 +4702,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "357": {
+    "364": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4807,7 +4716,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "358": {
+    "365": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4821,7 +4730,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "359": {
+    "366": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4835,7 +4744,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "360": {
+    "367": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4849,7 +4758,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "361": {
+    "368": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4863,7 +4772,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "362": {
+    "369": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4877,7 +4786,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "363": {
+    "370": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",
@@ -4891,7 +4800,7 @@
       "Formation": "heros",
       "VersionID": 2
     },
-    "364": {
+    "371": {
       "Camp": "三国",
       "Difficulty": "变态",
       "Type": "变态3英[B]-近远远",

@@ -61,7 +61,7 @@
 		"8": "Monster5",
 		"9": "Monster6"
 	},
-	"row_count": 364,
+	"row_count": 372,
 	"rows": 
 	{
 		"1": 
@@ -4206,6 +4206,66 @@
 			"Monster9": "黄巾强弓",
 			"VersionID": 1
 		},
+		"365": 
+		{
+			"Formation": "random",
+			"GroupName": "黄巾-简单-教徒2",
+			"Monster1": "黄巾教徒",
+			"Monster2": "黄巾教徒",
+			"Monster3": "黄巾教徒",
+			"Monster4": "黄巾教徒",
+			"Monster5": "黄巾教徒",
+			"Monster6": "黄巾教徒",
+			"VersionID": 0
+		},
+		"366": 
+		{
+			"Formation": "random",
+			"GroupName": "黄巾-简单-教徒1",
+			"Monster1": "黄巾教徒",
+			"Monster2": "黄巾教徒",
+			"Monster3": "黄巾教徒",
+			"Monster4": "黄巾教徒",
+			"VersionID": 0
+		},
+		"367": 
+		{
+			"Formation": "random",
+			"GroupName": "黄巾-简单-教徒3",
+			"Monster1": "黄巾教徒",
+			"Monster2": "黄巾教徒",
+			"Monster3": "黄巾教徒",
+			"Monster4": "黄巾教徒",
+			"Monster5": "黄巾教徒",
+			"Monster6": "黄巾教徒",
+			"Monster7": "黄巾教徒",
+			"Monster8": "黄巾教徒",
+			"VersionID": 0
+		},
+		"368": 
+		{
+			"Formation": "random",
+			"GroupName": "黄巾-简单-教徒4",
+			"Monster1": "黄巾教徒",
+			"Monster2": "黄巾教徒",
+			"Monster3": "黄巾教徒",
+			"Monster4": "黄巾教徒",
+			"Monster5": "黄巾教徒",
+			"Monster6": "黄巾教徒",
+			"Monster7": "黄巾教徒",
+			"Monster8": "黄巾教徒",
+			"VersionID": 2
+		},
+		"369": 
+		{
+			"Formation": "row6",
+			"GroupName": "黄巾-简单-炼兵",
+			"Monster1": "黄巾炼金",
+			"Monster2": "黄巾炼金",
+			"Monster3": "黄巾炼金",
+			"Monster4": "黄巾炼金",
+			"VersionID": 1
+		},
 		"37": 
 		{
 			"Formation": "heros",
@@ -4215,6 +4275,40 @@
 			"Monster3": "炼金",
 			"Monster4": "炼金",
 			"VersionID": 2
+		},
+		"370": 
+		{
+			"Formation": "row6",
+			"GroupName": "黄巾-简单-刺兵",
+			"Monster1": "黄巾刺客",
+			"Monster2": "黄巾刺客",
+			"Monster3": "黄巾刺客",
+			"Monster4": "黄巾刺客",
+			"VersionID": 1
+		},
+		"371": 
+		{
+			"Formation": "row4",
+			"GroupName": "黄巾-普通-炼兵",
+			"Monster1": "黄巾炼金",
+			"Monster2": "黄巾炼金",
+			"Monster3": "黄巾炼金",
+			"Monster4": "黄巾炼金",
+			"Monster5": "黄巾炼金",
+			"Monster6": "黄巾炼金",
+			"Monster7": "黄巾炼金",
+			"VersionID": 1
+		},
+		"372": 
+		{
+			"Formation": "row4",
+			"GroupName": "黄巾-普通-刺兵",
+			"Monster1": "黄巾刺客",
+			"Monster2": "黄巾刺客",
+			"Monster3": "黄巾刺客",
+			"Monster4": "黄巾刺客",
+			"Monster5": "黄巾刺客",
+			"VersionID": 1
 		},
 		"38": 
 		{
