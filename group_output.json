@@ -61,7 +61,7 @@
 		"8": "Monster5",
 		"9": "Monster6"
 	},
-	"row_count": 372,
+	"row_count": 373,
 	"rows": 
 	{
 		"1": 
@@ -4308,6 +4308,25 @@
 			"Monster3": "黄巾刺客",
 			"Monster4": "黄巾刺客",
 			"Monster5": "黄巾刺客",
+			"VersionID": 1
+		},
+		"373": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-困难-法英+教徒",
+			"Monster1": "黄巾法师英雄",
+			"Monster10": "黄巾教徒",
+			"Monster11": "黄巾教徒",
+			"Monster12": "黄巾教徒",
+			"Monster13": "黄巾教徒",
+			"Monster2": "黄巾法师",
+			"Monster3": "黄巾法师",
+			"Monster4": "黄巾法师",
+			"Monster5": "黄巾法师",
+			"Monster6": "黄巾法师",
+			"Monster7": "黄巾法师",
+			"Monster8": "黄巾法师",
+			"Monster9": "黄巾法师",
 			"VersionID": 1
 		},
 		"38": 
