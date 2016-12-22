@@ -1733,7 +1733,7 @@
       "Check": true,
       "GroupName": "三国-困难-盾英+强兵",
       "Formation": "heros",
-      "VersionID": 2
+      "VersionID": 3
     },
     "138": {
       "Camp": "三国",
@@ -1759,7 +1759,7 @@
       "Check": true,
       "GroupName": "三国-困难-盾英+法兵",
       "Formation": "heros",
-      "VersionID": 2
+      "VersionID": 3
     },
     "140": {
       "Camp": "三国",
