@@ -61,7 +61,7 @@
 		"8": "Monster5",
 		"9": "Monster6"
 	},
-	"row_count": 356,
+	"row_count": 396,
 	"rows": 
 	{
 		"1": 
@@ -3829,6 +3829,49 @@
 			"Monster9": "黄巾法师",
 			"VersionID": 7
 		},
+		"357": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-普通-强英+教徒",
+			"Monster1": "黄巾强弓英雄",
+			"Monster2": "黄巾强弓",
+			"Monster3": "黄巾强弓",
+			"Monster4": "黄巾强弓",
+			"Monster5": "黄巾强弓",
+			"Monster6": "黄巾教徒",
+			"VersionID": 0
+		},
+		"358": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-普通-盾英+法英",
+			"Monster1": "黄巾盾甲英雄",
+			"Monster2": "黄巾盾甲",
+			"Monster3": "黄巾盾甲",
+			"Monster4": "黄巾法师英雄",
+			"Monster5": "黄巾法师",
+			"Monster6": "黄巾法师",
+			"VersionID": 0
+		},
+		"359": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-困难-强英+教徒",
+			"Monster1": "黄巾强弓英雄",
+			"Monster10": "黄巾教徒",
+			"Monster11": "黄巾教徒",
+			"Monster12": "黄巾教徒",
+			"Monster13": "黄巾教徒",
+			"Monster2": "黄巾强弓",
+			"Monster3": "黄巾强弓",
+			"Monster4": "黄巾强弓",
+			"Monster5": "黄巾强弓",
+			"Monster6": "黄巾强弓",
+			"Monster7": "黄巾强弓",
+			"Monster8": "黄巾强弓",
+			"Monster9": "黄巾强弓",
+			"VersionID": 0
+		},
 		"36": 
 		{
 			"Formation": "heros",
@@ -3838,6 +3881,130 @@
 			"Monster3": "炼金",
 			"Monster4": "炼金",
 			"VersionID": 7
+		},
+		"360": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-困难-盾英+法英+法英",
+			"Monster1": "黄巾盾甲英雄",
+			"Monster2": "黄巾法师英雄",
+			"Monster3": "黄巾法师英雄",
+			"Monster4": "黄巾法师",
+			"Monster5": "黄巾法师",
+			"Monster6": "黄巾法师",
+			"Monster7": "黄巾法师",
+			"Monster8": "黄巾法师",
+			"Monster9": "黄巾法师",
+			"VersionID": 0
+		},
+		"361": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-超难-[B]盾英+法英+刺英",
+			"Monster1": "[B]黄巾盾甲英雄",
+			"Monster2": "[B]黄巾法师英雄",
+			"Monster3": "黄巾法师",
+			"Monster4": "黄巾法师",
+			"Monster5": "黄巾法师",
+			"Monster6": "[B]黄巾刺客英雄",
+			"Monster7": "黄巾刺客",
+			"Monster8": "黄巾刺客",
+			"Monster9": "黄巾刺客",
+			"VersionID": 0
+		},
+		"362": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+铁英+强英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑英雄",
+			"Monster4": "铁骑",
+			"Monster5": "强弓英雄",
+			"VersionID": 0
+		},
+		"363": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+铁英+炼英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑英雄",
+			"Monster4": "铁骑",
+			"Monster5": "炼金英雄",
+			"Monster6": "炼金",
+			"Monster7": "炼金",
+			"VersionID": 0
+		},
+		"364": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+铁英+法英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑英雄",
+			"Monster3": "法师英雄",
+			"Monster4": "法师",
+			"Monster5": "法师",
+			"Monster6": "法师",
+			"Monster7": "法师",
+			"VersionID": 0
+		},
+		"365": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+铁英+刺英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑英雄",
+			"Monster4": "铁骑",
+			"Monster5": "刺客英雄",
+			"Monster6": "刺客",
+			"Monster7": "刺客",
+			"VersionID": 0
+		},
+		"366": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+盾英+强英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "盾甲英雄",
+			"Monster3": "强弓英雄",
+			"Monster4": "强弓",
+			"Monster5": "强弓",
+			"VersionID": 0
+		},
+		"367": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+盾英+炼英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "盾甲英雄",
+			"Monster3": "炼金英雄",
+			"Monster4": "炼金",
+			"Monster5": "炼金",
+			"VersionID": 0
+		},
+		"368": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+盾英+法英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "盾甲英雄",
+			"Monster3": "法师英雄",
+			"Monster4": "法师",
+			"Monster5": "法师",
+			"VersionID": 0
+		},
+		"369": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+盾英+刺英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "盾甲",
+			"Monster3": "盾甲英雄",
+			"Monster4": "盾甲",
+			"Monster5": "刺客英雄",
+			"VersionID": 0
 		},
 		"37": 
 		{
@@ -3850,6 +4017,128 @@
 			"Monster5": "强弓",
 			"VersionID": 7
 		},
+		"370": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+盾英+强英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "盾甲英雄",
+			"Monster4": "盾甲",
+			"Monster5": "强弓英雄",
+			"VersionID": 0
+		},
+		"371": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+盾英+炼英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "盾甲英雄",
+			"Monster3": "炼金英雄",
+			"Monster4": "炼金",
+			"Monster5": "炼金",
+			"VersionID": 0
+		},
+		"372": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+盾英+法英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "盾甲英雄",
+			"Monster3": "法师英雄",
+			"Monster4": "法师",
+			"Monster5": "法师",
+			"Monster6": "法师",
+			"Monster7": "法师",
+			"VersionID": 0
+		},
+		"373": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+盾英+刺英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑",
+			"Monster4": "盾甲英雄",
+			"Monster5": "盾甲",
+			"Monster6": "盾甲",
+			"Monster7": "刺客英雄",
+			"VersionID": 0
+		},
+		"374": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+强英+强英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "强弓",
+			"Monster5": "强弓英雄",
+			"Monster6": "强弓",
+			"Monster7": "强弓",
+			"VersionID": 0
+		},
+		"375": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+炼英+炼英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑",
+			"Monster4": "炼金英雄",
+			"Monster5": "炼金英雄",
+			"VersionID": 0
+		},
+		"376": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+法英+法英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "法师英雄",
+			"Monster3": "法师英雄",
+			"Monster4": "法师",
+			"Monster5": "法师",
+			"Monster6": "法师",
+			"Monster7": "法师",
+			"VersionID": 0
+		},
+		"377": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+刺英+刺英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑",
+			"Monster4": "铁骑",
+			"Monster5": "铁骑",
+			"Monster6": "刺客英雄",
+			"Monster7": "刺客英雄",
+			"VersionID": 0
+		},
+		"378": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+强英+炼英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑",
+			"Monster4": "强弓英雄",
+			"Monster5": "炼金英雄",
+			"VersionID": 0
+		},
+		"379": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+强英+法英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "强弓",
+			"Monster5": "法师英雄",
+			"Monster6": "法师",
+			"Monster7": "法师",
+			"VersionID": 0
+		},
 		"38": 
 		{
 			"Formation": "heros",
@@ -3861,6 +4150,118 @@
 			"Monster5": "法师",
 			"VersionID": 7
 		},
+		"380": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+炼英+法英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "炼金英雄",
+			"Monster3": "炼金",
+			"Monster4": "法师英雄",
+			"Monster5": "法师",
+			"VersionID": 0
+		},
+		"381": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+炼英+刺英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑",
+			"Monster4": "炼金英雄",
+			"Monster5": "刺客英雄",
+			"VersionID": 0
+		},
+		"382": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-铁英+法英+刺英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑",
+			"Monster4": "法师英雄",
+			"Monster5": "刺客英雄",
+			"VersionID": 0
+		},
+		"383": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+强英+强英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "强弓英雄",
+			"Monster5": "强弓",
+			"VersionID": 0
+		},
+		"384": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+炼英+炼英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "盾甲",
+			"Monster3": "盾甲",
+			"Monster4": "炼金英雄",
+			"Monster5": "炼金英雄",
+			"VersionID": 0
+		},
+		"385": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+法英+法英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "法师英雄",
+			"Monster3": "法师英雄",
+			"Monster4": "法师",
+			"Monster5": "法师",
+			"Monster6": "法师",
+			"Monster7": "法师",
+			"VersionID": 0
+		},
+		"386": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+刺英+刺英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "刺客英雄",
+			"Monster3": "刺客",
+			"Monster4": "刺客",
+			"Monster5": "刺客英雄",
+			"VersionID": 0
+		},
+		"387": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+强英+炼英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "炼金英雄",
+			"Monster5": "炼金",
+			"VersionID": 0
+		},
+		"388": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+强英+法英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "法师英雄",
+			"Monster5": "法师",
+			"VersionID": 0
+		},
+		"389": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+炼英+法英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "盾甲",
+			"Monster3": "盾甲",
+			"Monster4": "炼金英雄",
+			"Monster5": "法师英雄",
+			"VersionID": 0
+		},
 		"39": 
 		{
 			"Formation": "heros",
@@ -3871,6 +4272,91 @@
 			"Monster4": "炼金",
 			"Monster5": "炼金",
 			"VersionID": 7
+		},
+		"390": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+炼英+刺英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "盾甲",
+			"Monster3": "盾甲",
+			"Monster4": "炼金英雄",
+			"Monster5": "刺客英雄",
+			"VersionID": 0
+		},
+		"391": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-困难-盾英+法英+刺英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "法师英雄",
+			"Monster3": "法师",
+			"Monster4": "刺客英雄",
+			"Monster5": "刺客",
+			"VersionID": 0
+		},
+		"392": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-超难-盾英+强英+强英",
+			"Monster1": "盾甲英雄",
+			"Monster10": "强弓",
+			"Monster11": "强弓",
+			"Monster2": "强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "强弓",
+			"Monster5": "强弓",
+			"Monster6": "强弓英雄",
+			"Monster7": "强弓",
+			"Monster8": "强弓",
+			"Monster9": "强弓",
+			"VersionID": 0
+		},
+		"393": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-超难-[B]盾英+强英+强英",
+			"Monster1": "[B]盾甲英雄",
+			"Monster2": "[B]强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "强弓",
+			"Monster5": "[B]强弓英雄",
+			"Monster6": "强弓",
+			"Monster7": "强弓",
+			"VersionID": 0
+		},
+		"394": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-超难-[B]盾英+强英+刺英",
+			"Monster1": "[B]盾甲英雄",
+			"Monster2": "[B]强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "[B]刺客英雄",
+			"Monster5": "刺客",
+			"VersionID": 0
+		},
+		"395": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-困难-[B]盾英+法兵1",
+			"Monster1": "[B]黄巾盾甲英雄",
+			"Monster2": "黄巾法师",
+			"Monster3": "黄巾法师",
+			"Monster4": "黄巾法师",
+			"VersionID": 0
+		},
+		"396": 
+		{
+			"Formation": "heros",
+			"GroupName": "黄巾-困难-法英+教徒1",
+			"Monster1": "黄巾法师英雄",
+			"Monster2": "黄巾法师",
+			"Monster3": "黄巾法师",
+			"Monster4": "黄巾教徒",
+			"Monster5": "黄巾教徒",
+			"Monster6": "黄巾教徒",
+			"VersionID": 0
 		},
 		"4": 
 		{
@@ -3935,9 +4421,7 @@
 			"Monster1": "强弓英雄",
 			"Monster2": "强弓",
 			"Monster3": "强弓",
-			"Monster4": "强弓",
-			"Monster5": "强弓",
-			"VersionID": 2
+			"VersionID": 7
 		},
 		"45": 
 		{
@@ -3955,9 +4439,7 @@
 			"Monster1": "法师英雄",
 			"Monster2": "法师",
 			"Monster3": "法师",
-			"Monster4": "法师",
-			"Monster5": "法师",
-			"VersionID": 2
+			"VersionID": 7
 		},
 		"47": 
 		{
