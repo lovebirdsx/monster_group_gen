@@ -61,7 +61,7 @@
 		"8": "Monster5",
 		"9": "Monster6"
 	},
-	"row_count": 396,
+	"row_count": 405,
 	"rows": 
 	{
 		"1": 
@@ -4358,6 +4358,49 @@
 			"Monster6": "黄巾教徒",
 			"VersionID": 0
 		},
+		"397": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-超难-铁英+强英+刺英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "强弓",
+			"Monster5": "强弓",
+			"Monster6": "刺客英雄",
+			"Monster7": "刺客",
+			"Monster8": "刺客",
+			"Monster9": "刺客",
+			"VersionID": 0
+		},
+		"398": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-超难-盾英+强英+刺英",
+			"Monster1": "盾甲英雄",
+			"Monster2": "盾甲",
+			"Monster3": "盾甲",
+			"Monster4": "强弓英雄",
+			"Monster5": "强弓",
+			"Monster6": "强弓",
+			"Monster7": "刺客英雄",
+			"Monster8": "刺客",
+			"Monster9": "刺客",
+			"VersionID": 0
+		},
+		"399": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-超难-[B]铁英+强英+刺英",
+			"Monster1": "[B]铁骑英雄",
+			"Monster2": "铁骑",
+			"Monster3": "铁骑",
+			"Monster4": "铁骑",
+			"Monster5": "铁骑",
+			"Monster6": "[B]强弓英雄",
+			"Monster7": "[B]刺客英雄",
+			"VersionID": 0
+		},
 		"4": 
 		{
 			"Formation": "row6",
@@ -4380,6 +4423,84 @@
 			"Monster4": "强弓",
 			"Monster5": "强弓",
 			"VersionID": 7
+		},
+		"400": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-变态-铁英+强英+刺英",
+			"Monster1": "铁骑英雄",
+			"Monster2": "强弓英雄",
+			"Monster3": "刺客英雄",
+			"VersionID": 0
+		},
+		"401": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-变态-盾英+强英+强英",
+			"Monster1": "盾甲英雄",
+			"Monster10": "强弓",
+			"Monster11": "强弓",
+			"Monster12": "强弓",
+			"Monster13": "强弓",
+			"Monster14": "强弓",
+			"Monster2": "强弓英雄",
+			"Monster3": "强弓",
+			"Monster4": "强弓",
+			"Monster5": "强弓",
+			"Monster6": "强弓英雄",
+			"Monster7": "强弓",
+			"Monster8": "强弓",
+			"Monster9": "强弓",
+			"VersionID": 0
+		},
+		"402": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-变态-盾英+强英+刺英",
+			"Monster1": "盾甲英雄",
+			"Monster10": "刺客",
+			"Monster11": "刺客",
+			"Monster12": "刺客",
+			"Monster2": "盾甲",
+			"Monster3": "盾甲",
+			"Monster4": "强弓英雄",
+			"Monster5": "强弓",
+			"Monster6": "强弓",
+			"Monster7": "强弓",
+			"Monster8": "刺客英雄",
+			"Monster9": "刺客",
+			"VersionID": 0
+		},
+		"403": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-变态-[B]铁英+强英+刺英",
+			"Monster1": "[B]铁骑英雄",
+			"Monster2": "[B]强弓英雄",
+			"Monster3": "[B]刺客英雄",
+			"VersionID": 0
+		},
+		"404": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-变态-[B]盾英+强英+强英",
+			"Monster1": "[B]盾甲英雄",
+			"Monster2": "[B]强弓英雄",
+			"Monster3": "[B]强弓英雄",
+			"VersionID": 0
+		},
+		"405": 
+		{
+			"Formation": "heros",
+			"GroupName": "三国-变态-[B]盾英+强英+刺英",
+			"Monster1": "[B]盾甲英雄",
+			"Monster2": "盾甲",
+			"Monster3": "盾甲",
+			"Monster4": "[B]强弓英雄",
+			"Monster5": "强弓",
+			"Monster6": "[B]刺客英雄",
+			"Monster7": "刺客",
+			"VersionID": 0
 		},
 		"41": 
 		{
