@@ -4429,7 +4429,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+铁英+强英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 10
     },
     "343": {
       "Camp": "三国",
@@ -4442,7 +4442,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+铁英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "344": {
       "Camp": "三国",
@@ -4455,7 +4455,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+铁英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "345": {
       "Camp": "三国",
@@ -4468,7 +4468,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+铁英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "346": {
       "Camp": "三国",
@@ -4481,7 +4481,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+盾英+强英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "347": {
       "Camp": "三国",
@@ -4494,7 +4494,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+盾英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "348": {
       "Camp": "三国",
@@ -4507,7 +4507,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+盾英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "349": {
       "Camp": "三国",
@@ -4520,7 +4520,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+盾英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "350": {
       "Camp": "三国",
@@ -4533,7 +4533,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+盾英+强英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "351": {
       "Camp": "三国",
@@ -4546,7 +4546,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+盾英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "352": {
       "Camp": "三国",
@@ -4559,7 +4559,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+盾英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "353": {
       "Camp": "三国",
@@ -4572,7 +4572,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+盾英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "354": {
       "Camp": "三国",
@@ -4586,7 +4586,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+铁英+强英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "355": {
       "Camp": "三国",
@@ -4600,7 +4600,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+铁英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "356": {
       "Camp": "三国",
@@ -4614,7 +4614,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+铁英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "357": {
       "Camp": "三国",
@@ -4628,7 +4628,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+铁英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "358": {
       "Camp": "三国",
@@ -4642,7 +4642,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+盾英+强英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "359": {
       "Camp": "三国",
@@ -4656,7 +4656,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+盾英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "360": {
       "Camp": "三国",
@@ -4670,7 +4670,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+盾英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "361": {
       "Camp": "三国",
@@ -4684,7 +4684,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+盾英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "362": {
       "Camp": "三国",
@@ -4698,7 +4698,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+盾英+强英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "363": {
       "Camp": "三国",
@@ -4712,7 +4712,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+盾英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "364": {
       "Camp": "三国",
@@ -4726,7 +4726,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+盾英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "365": {
       "Camp": "三国",
@@ -4740,7 +4740,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+盾英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "366": {
       "Camp": "三国",
@@ -4753,7 +4753,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+强英+强英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "367": {
       "Camp": "三国",
@@ -4766,7 +4766,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+炼英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "368": {
       "Camp": "三国",
@@ -4779,7 +4779,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+法英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "369": {
       "Camp": "三国",
@@ -4792,7 +4792,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+刺英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "370": {
       "Camp": "三国",
@@ -4805,7 +4805,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+强英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "371": {
       "Camp": "三国",
@@ -4818,7 +4818,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+强英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "372": {
       "Camp": "三国",
@@ -4831,7 +4831,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+强英+刺英",
       "Formation": "heros",
-      "VersionID": 0
+      "VersionID": 9
     },
     "373": {
       "Camp": "三国",
@@ -4844,7 +4844,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+炼英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "374": {
       "Camp": "三国",
@@ -4857,7 +4857,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+炼英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "375": {
       "Camp": "三国",
@@ -4870,7 +4870,7 @@
       "Check": true,
       "GroupName": "三国-变态-铁英+法英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "376": {
       "Camp": "三国",
@@ -4883,7 +4883,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+强英+强英",
       "Formation": "heros",
-      "VersionID": 0
+      "VersionID": 9
     },
     "377": {
       "Camp": "三国",
@@ -4896,7 +4896,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+炼英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "378": {
       "Camp": "三国",
@@ -4909,7 +4909,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+法英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "379": {
       "Camp": "三国",
@@ -4922,7 +4922,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+刺英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "380": {
       "Camp": "三国",
@@ -4935,7 +4935,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+强英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "381": {
       "Camp": "三国",
@@ -4948,7 +4948,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+强英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "382": {
       "Camp": "三国",
@@ -4961,7 +4961,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+强英+刺英",
       "Formation": "heros",
-      "VersionID": 0
+      "VersionID": 9
     },
     "383": {
       "Camp": "三国",
@@ -4974,7 +4974,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+炼英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "384": {
       "Camp": "三国",
@@ -4987,7 +4987,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+炼英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "385": {
       "Camp": "三国",
@@ -5000,7 +5000,7 @@
       "Check": true,
       "GroupName": "三国-变态-盾英+法英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "386": {
       "Camp": "三国",
@@ -5014,7 +5014,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+强英+强英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "387": {
       "Camp": "三国",
@@ -5028,7 +5028,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+炼英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "388": {
       "Camp": "三国",
@@ -5042,7 +5042,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+法英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "389": {
       "Camp": "三国",
@@ -5056,7 +5056,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+刺英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "390": {
       "Camp": "三国",
@@ -5070,7 +5070,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+强英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "391": {
       "Camp": "三国",
@@ -5084,7 +5084,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+强英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "392": {
       "Camp": "三国",
@@ -5098,7 +5098,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+强英+刺英",
       "Formation": "heros",
-      "VersionID": 0
+      "VersionID": 9
     },
     "393": {
       "Camp": "三国",
@@ -5112,7 +5112,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+炼英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "394": {
       "Camp": "三国",
@@ -5126,7 +5126,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+炼英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "395": {
       "Camp": "三国",
@@ -5140,7 +5140,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]铁英+法英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "396": {
       "Camp": "三国",
@@ -5154,7 +5154,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+强英+强英",
       "Formation": "heros",
-      "VersionID": 0
+      "VersionID": 9
     },
     "397": {
       "Camp": "三国",
@@ -5168,7 +5168,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+炼英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "398": {
       "Camp": "三国",
@@ -5182,7 +5182,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+法英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "399": {
       "Camp": "三国",
@@ -5196,7 +5196,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+刺英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "400": {
       "Camp": "三国",
@@ -5210,7 +5210,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+强英+炼英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "401": {
       "Camp": "三国",
@@ -5224,7 +5224,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+强英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "402": {
       "Camp": "三国",
@@ -5238,7 +5238,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+强英+刺英",
       "Formation": "heros",
-      "VersionID": 0
+      "VersionID": 9
     },
     "403": {
       "Camp": "三国",
@@ -5252,7 +5252,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+炼英+法英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "404": {
       "Camp": "三国",
@@ -5266,7 +5266,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+炼英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     },
     "405": {
       "Camp": "三国",
@@ -5280,7 +5280,7 @@
       "Check": true,
       "GroupName": "三国-变态-[B]盾英+法英+刺英",
       "Formation": "heros",
-      "VersionID": 7
+      "VersionID": 9
     }
   }
 }
